@@ -10,8 +10,18 @@ Project Objectives :
 •	This game is totally for entertainment purposes with some level of logical 
 development for the users.
 
-Output Screenshot1
-![image](https://user-images.githubusercontent.com/96935019/149665405-b3015539-133e-4871-9852-6e8b6477c8a9.png)
+Output Screenshot
+Winning Case:
+![Screenshot (335)](https://user-images.githubusercontent.com/96935019/149665447-534762d0-5fa2-4097-87a6-7079936b74ce.png)
+![Screenshot (337)](https://user-images.githubusercontent.com/96935019/149665489-552f4eee-1749-4b6f-98bb-999ea07c7c32.png)
+![image](https://user-images.githubusercontent.com/96935019/149665508-1c697d10-0ea3-47da-bdac-628f8b586017.png)
+
+Loosing Case:
+![Screenshot (339)](https://user-images.githubusercontent.com/96935019/149665578-ceba9687-52e2-407b-8697-d3fb098cd02e.png)
+
+
+
+
 
 
 
