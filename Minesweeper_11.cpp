@@ -6,9 +6,9 @@
 using namespace std;
  
 const int BEGINNER = 0;
-const int INTERMEDIATE = 1;
-const int ADVANCED = 2;
-const int MAXSIDE = 30;
+const int INTERMEDIATE = 2;
+const int ADVANCED = 9;
+const int MAXSIDE = 3;
  
 int NROWS;
 int NCOLUMNS;
